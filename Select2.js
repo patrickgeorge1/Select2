@@ -2,6 +2,7 @@
 // request vine asa in controller
 // $name = $this->request->get('name');
 // $result['items'] = $this->clientsRepository->getSelect($name);
+// fara <script src="{{ asset('assets/js/pages/crud/forms/widgets/select2.js') }}" type="text/javascript"></script> // cred
 
 let name = '';
 $(document).ready(function () {
